@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-pandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saurabhpandey61)
 [![GitHub](https://img.shields.io/badge/GitHub-saurabhpandey22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhpandey22)
 [![Email](https://img.shields.io/badge/Email-saurabhpandey5857@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhpandey5857@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-9569141861-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
